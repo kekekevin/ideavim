@@ -1,0 +1,2 @@
+# ideavim
+IDEA vim settings
