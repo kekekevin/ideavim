@@ -24,6 +24,7 @@ vnoremap <A-j> :action MoveLineDown<CR>
 vnoremap <A-k> :action MoveLineUp<CR>
 
 map <C-p> :action GotoClass<CR>
+map <C-]> :action GotoDeclaration<CR>
 
 map <C-o> :action Back<CR>
 map <C-i> :action Forward<CR>
